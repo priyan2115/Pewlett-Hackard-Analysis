@@ -32,8 +32,8 @@
 and also retrieve the **title** column from the **Titles** table.
 2. We use a **DISTINCT ON** statement to retrieve the first occurrence of the employee number for each set of rows defined by the ON () clause, we save this data in to the **mentorship_eligibilty** table .
 3. Join the 3 tables **employees,dept_emp and titles** with the use of Primary keys and use the filter on dept_emp's **to_date** column to retrive the desired data from the query and save that into the **mentorship_eligibilty.csv**.
-![image]()
-![image]()
+![mentorship_eligibilty](mentorship_eligibilty.png)
+![mentorship_eligibiltyCSV](mentorship_eligibiltyCSV.png)
 
 # Deliverable 3: A written report on the employee database analysis
 ## Over View Of Analysis
