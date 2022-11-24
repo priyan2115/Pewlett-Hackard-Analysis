@@ -1,5 +1,5 @@
 # Pewlett-Hackard-Analysis
-# Over View Of Analysis
+# Overview Of the Projcet
 
 ### Database keys
   **Database Keys** identify records from tables and establish relationships between tables. There are many types of keys. We used 2 type of keys here,**PRIMARY KEYS and FOREIGN KEYS**
@@ -25,6 +25,7 @@
    ![Image]()
    ![Image]()
 # Deliverable 2: The Employees Eligible for the Mentorship Program
+# Over View Of Analysis
  1. In this task we have to retriving the Employees who able to join the Mentorship Program  for that first we have to retrieve the **emp_no, first_name, last_name, and birth_date** columns from the **Employees** table, then we have to retrieve the **from_date and to_date** columns from the **Department Employee(dept_emp)** table.
 and also retrieve the **title** column from the **Titles** table.
 2. We use a **DISTINCT ON** statement to retrieve the first occurrence of the employee number for each set of rows defined by the ON () clause, we save this data in to the **mentorship_eligibilty** table .
@@ -33,5 +34,30 @@ and also retrieve the **title** column from the **Titles** table.
 ![image]()
 
 # Deliverable 3: A written report on the employee database analysis
+## Over View Of Analysis
+* Explain the purpose of this analysis
+1. In this deliverable, we have to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.And in the deliverable 3 we have to help Bobby's manager with writing the report prepare for the upcoming "silver tsunami."
 
+## Result
+ * From the finding of the eligible retirees, High Percentage of the workforce could retire.
+ * From the job titles of the eligible retirees, as below.
+ * 25916,Senior Engineer
+ * 24926,Senior Staff
+ * 9285,Engineer
+ * 7636,Staff
+ * 3603,Technique Leader
+ * 1090,Assistant Engineer
+ * 2,Manager
+
+## Summary
+Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami.":
+
+1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?.
+
+72,458 roles are in urgent need to be filled out as soon as the workforce starts retiring at any given time.
+
+2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+No, we have 1,549 employees who are eligible to participate in a mentorship program.
+ 
 
