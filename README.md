@@ -16,11 +16,13 @@
    1. In this task we have to display the Number of Retiring Employees by title with the used of joing tables query.
    First We have to retrive **emp_no,first_name and last_name** from the table **Employees** and **title,from_date and to_date** from the **Titles** table, after retrivig that columns from the tables we create the another table to save the output called **retirement_titles** table. To getting retirement_titles table data we have to join or merge the Employees table and Titles table and then we have to performing filterretion on the birth_date column for getting the data in retirement_titles.csv file.
    ![retirements_titles1](retirements_titles1.png)
-   ![retirements_titlesCSV.1](retirements_titlesCSV.1.png)
    After getting the desired data we saved that data as the csv file.
    ![Image]()
+   ![retirements_titlesCSV.1](retirements_titlesCSV.1.png)
+   
    2. After exporting this .CSV file we have to drop duplicates from that table and csv for that we used **Distinct On()** 
-   ![image]()
+   ![DistinctOrder](DistinctOrder.png)
+   
    3. After performing that we have to retrieve the number of employees by their most recent job title who are about to retire and put that numbers into **Descending** order.
    ![Image]()
    ![Image]()
