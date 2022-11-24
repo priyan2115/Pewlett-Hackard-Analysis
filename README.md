@@ -10,12 +10,12 @@
    **Foreign keys** are the primary keys of another tables which saved as Forign keys in the other tables.so, basically as Primary keys are unique identification for the table like that foreign keys are unique identifications of the other tables. It is as important as Primary keys.
 ### Entity Relationship Diagram(ERD)
    **Entity Relationship Diagram (ERD)** is the most important part of SQL. It is the flowchart of the Database which contain Primary keys,Foreign Keys and Datatypes of the columns.ERD also shows the flow of the tables.
-   ![Image]()
+   ![EmployeeDB](EmployeeDB.png)
    
 # Deliverable 1: The Number of Retiring Employees by Title
    1. In this task we have to display the Number of Retiring Employees by title with the used of joing tables query.
    First We have to retrive **emp_no,first_name and last_name** from the table **Employees** and **title,from_date and to_date** from the **Titles** table, after retrivig that columns from the tables we create the another table to save the output called **retirement_titles** table. To getting retirement_titles table data we have to join or merge the Employees table and Titles table and then we have to performing filterretion on the birth_date column for getting the data in retirement_titles.csv file.
-   ![Image]()
+   ![]()
    ![Image]()
    After getting the desired data we saved that data as the csv file.
    ![Image]()
