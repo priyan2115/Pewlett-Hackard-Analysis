@@ -5,7 +5,7 @@
   **Database Keys** identify records from tables and establish relationships between tables. There are many types of keys. We used 2 type of keys here,**PRIMARY KEYS and FOREIGN KEYS**
     
 ### Primary keys
-   **Primary Keys** are most essential keys for database and tables.It is an Unique Identity of each table and Database.When table are created primary keys are must to add, primary keys created the link between the table or as I said estblished a relationship between two tables.
+   **Primary Keys** are most essential keys for database and tables.It is an Unique Identity of each table and Database.When table are created primary keys are must to add primary keys created the link between the table or as I said estblished a relationship between two tables.
 ### Foreign Keys
    **Foreign keys** are the primary keys of another tables which saved as Forign keys in the other tables.so, basically as Primary keys are unique identification for the table like that foreign keys are unique identifications of the other tables. It is as important as Primary keys.
 ### Entity Relationship Diagram(ERD)
