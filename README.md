@@ -25,7 +25,7 @@
    
    3. After performing that we have to retrieve the number of employees by their most recent job title who are about to retire and put that numbers into **Descending** order.
    ![count](count.png)
-   ![Image]()
+   ![retiring_titlesCSV](retiring_titlesCSV.png)
 # Deliverable 2: The Employees Eligible for the Mentorship Program
 # Over View Of Analysis
  1. In this task we have to retriving the Employees who able to join the Mentorship Program  for that first we have to retrieve the **emp_no, first_name, last_name, and birth_date** columns from the **Employees** table, then we have to retrieve the **from_date and to_date** columns from the **Department Employee(dept_emp)** table.
