@@ -43,13 +43,14 @@ and also retrieve the **title** column from the **Titles** table.
 ## Result
  * From the finding of the eligible retirees, High Percentage of the workforce could retire.
  * From the job titles of the eligible retirees, as below.
- * 25916,Senior Engineer
- * 24926,Senior Staff
- * 9285,Engineer
- * 7636,Staff
- * 3603,Technique Leader
- * 1090,Assistant Engineer
- * 2,Manager
+  * 25916,Senior Engineer
+  * 24926,Senior Staff
+  * 9285,Engineer
+  * 7636,Staff
+  * 3603,Technique Leader
+  * 1090,Assistant Engineer
+  * 2,Manager
+  ![count](count.png)
 
 ## Summary
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami.":
@@ -61,5 +62,7 @@ Provide high-level responses to the following questions, then provide two additi
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
  No, we have 1,549 employees who are eligible to participate in a mentorship program.
+ 
+ ![mentorship_eligibilty](mentorship_eligibilty.png)
  
 
