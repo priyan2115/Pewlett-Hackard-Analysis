@@ -24,7 +24,7 @@
    ![DistinctOrder](DistinctOrder.png)
    
    3. After performing that we have to retrieve the number of employees by their most recent job title who are about to retire and put that numbers into **Descending** order.
-   ![Image]()
+   ![count](count.png)
    ![Image]()
 # Deliverable 2: The Employees Eligible for the Mentorship Program
 # Over View Of Analysis
